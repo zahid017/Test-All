@@ -9,4 +9,8 @@ Second Test--Yiyang
 
 Third Test --LiangFang
 
+<<<<<<< HEAD
 4th Test -- liangfang
+=======
+Test for 1st branch  -- Yiyang
+>>>>>>> 75c729cf6eb3e698359f7143ae99ff83830772a4
