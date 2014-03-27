@@ -5,3 +5,10 @@ flips:table;
 screams: at-sam;
 
 }
+
+.test{
+  color:#fff;
+  position: relative;
+  float:left;
+  left:0;
+}
